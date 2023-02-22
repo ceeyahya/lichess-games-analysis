@@ -30,7 +30,7 @@ The dataset consists of ~20000 chess games harvested from Lichess.org, each row 
 - white_id: white player's Lichess username.
 - white_rating: white player's ELO (explained in the next section).
 - black_id: black player's Lichess username.
-- black_rating: white player's ELO.
+- black_rating: black player's ELO.
 - all_moves: all moves of the game in chess notation mentioned earlier.
 - opening_name: games in chess are divided into 3 parts openings, mid-game and endings this column states the opening's name.
 - opening_eco: each standard opening is attributed a code that can be accessed [here](https://www.365chess.com/eco.php).
