@@ -12,7 +12,7 @@ for Artificial Intelligence and Machine Learning research.
 
 > **NOTE**
 > This README only aims to provide a short introduction to the project, a more detailed write up is available on my portoflio
-> [https://chahineyahya.dev/projects/norman-says](https://chahineyahya.dev/projects/norman-says).
+> [https://chahineyahya.dev/projects/lichess-games-data-analysis](https://chahineyahya.dev/projects/lichess-games-data-analysis).
 
 ## Analysis
 
